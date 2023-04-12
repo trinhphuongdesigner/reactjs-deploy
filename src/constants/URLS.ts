@@ -1,1 +1,1 @@
-export const API_URL = 'https://nodejs-deploy-41chlntm7-phuongtdwiicamp.vercel.app';
+export const API_URL = 'https://nodejs-deploy-two.vercel.app/';
